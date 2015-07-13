@@ -1,3 +1,3 @@
 # File_Tools
-Tools to help read different types of files. 
-Written in Java using the Apache POI and JExcel Libraries
+Tools to help extract information from different types of files using Java. 
+Written in Java, using the Apache POI and JExcel Libraries
